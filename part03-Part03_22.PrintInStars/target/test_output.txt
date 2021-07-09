@@ -1,0 +1,1 @@
+[{"className":"PrinterTest","methodName":"checkStars","pointNames":["03-22"],"message":"timeout","status":"FAILED"}]
